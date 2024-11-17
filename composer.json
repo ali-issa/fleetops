@@ -1,7 +1,7 @@
 {
     "name": "fleetbase/fleetops-api",
     "version": "0.5.14",
-    "description": "Fleet & Transport Management Extension for Fleetbase",
+    "description": "Fleet & Transport Management Extension for Rapide",
     "keywords": [
         "fleetbase-extension",
         "fleetops",
@@ -12,12 +12,12 @@
     "license": "AGPL-3.0-or-later",
     "authors": [
         {
-            "name": "Fleetbase Pte Ltd.",
-            "email": "hello@fleetbase.io"
+            "name": "Rapide LLC",
+            "email": "info@rapide.om"
         },
         {
-            "name": "Ronald A. Richardson",
-            "email": "ron@fleetbase.io"
+            "name": "Ali Issa",
+            "email": "ali@issa.cm"
         }
     ],
     "require": {
